@@ -1,0 +1,2 @@
+# Application---ProFarmer-Modern-Solutions-for-Agriculture-
+“Modern Solutions for the Modern Problem” is a digital platform designed to empower farmers through modern technology. It connects farmers, vendors, and government services by providing machinery information, training modules, multilingual support, and updates on agricultural schemes to improve productivity and digital inclusion in farming.
